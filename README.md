@@ -107,4 +107,3 @@ simple-shell/
 ## License
 
 MIT
-```
